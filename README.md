@@ -6,5 +6,5 @@ RecycleWise is a smart AI-powered assistant designed to promote sustainability b
 
 AI tool that identifies objects from photos and tells you the correct recycling bin for them.
 
-[Demo](https://youtu.be/RJPSenszLIQ)
+[Demo video on youtube](https://youtu.be/RJPSenszLIQ)
 
